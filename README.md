@@ -10,7 +10,7 @@ I'm a passionate Software Developer with a knack for creating interactive and ac
 
 - 📧 Reach me: <a href="mailto:alanjibarradev@gmail.com" target="_blank">alanjibarradev@gmail.com</a>
 - 💼 Connect with me: <a href="https://www.linkedin.com/in/alanjibarra/" target="_blank">LinkedIn</a>
-- 🌐 View my portfolio: <a href="https://alanjibarra.com" target="_blank">alanjibarradev.com</a>
+- 🌐 View my portfolio: <a href="https://alanjibarra.com" target="_blank">alanjibarra.com</a>
 - 📄 View my resume: <a href="https://docs.google.com/document/d/1ei5IO2awJS2NTUJsyDn3Z2lpmsDR01e-NTsagMDYOCg/edit?usp=sharing" target="_blank">Resume</a>
 
 
