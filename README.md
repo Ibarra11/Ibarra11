@@ -8,10 +8,11 @@
 
 I'm a passionate Software Developer with a knack for creating interactive and accessible digital experiences. I enjoy learning new technologies and continuously improving my skills. My expertise includes working with modern web technologies like React, Node.js, and TypeScript. I'm driven by a desire to solve complex problems and create user-friendly solutions.
 
-- 📧 Reach me: [alanjibarradev@gmail.com](mailto:alanjibarradev@gmail.com)
-- 💼 Connect with me: [LinkedIn](https://www.linkedin.com/in/alanjibarra/)
-- 🌐 View my portfolio: [alanjibarradev.com](https://alanjibarradev.com)
-- 📄 View my resume: [Resume](https://docs.google.com/document/d/1ei5IO2awJS2NTUJsyDn3Z2lpmsDR01e-NTsagMDYOCg/edit?usp=sharing)
+- 📧 Reach me: <a href="mailto:alanjibarradev@gmail.com" target="_blank">alanjibarradev@gmail.com</a>
+- 💼 Connect with me: <a href="https://www.linkedin.com/in/alanjibarra/" target="_blank">LinkedIn</a>
+- 🌐 View my portfolio: <a href="https://alanjibarradev.com" target="_blank">alanjibarradev.com</a>
+- 📄 View my resume: <a href="https://docs.google.com/document/d/1ei5IO2awJS2NTUJsyDn3Z2lpmsDR01e-NTsagMDYOCg/edit?usp=sharing" target="_blank">Resume</a>
+
 
 ## Technologies & Tools
 
@@ -35,10 +36,10 @@ I'm a passionate Software Developer with a knack for creating interactive and ac
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Ibarra11">
+  <a href="https://github.com/Ibarra11" target="_blank">
     <img alt="Alan Ibarra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Ibarra11&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   </a>
-  <a href="https://github.com/Ibarra11">
+  <a href="https://github.com/Ibarra11" target="_blank">
     <img alt="Alan Ibarra's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ibarra11&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   </a>
 </p>
