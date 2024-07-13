@@ -1,15 +1,17 @@
+<!-- Intro  -->
+<h3 align="center">
+      Hey There! I am
+                <b>Alan Ibarra</b>
+</h3>
+
 ## About Me
 
-👋 Hi there! I'm Alan Ibarra, a passionate Software Developer with a knack for creating interactive and accessible digital experiences. I enjoy learning new technologies and continuously improving my skills. My expertise includes working with modern web technologies like React, Node.js, and TypeScript.
+I'm a passionate Software Developer with a knack for creating interactive and accessible digital experiences. I enjoy learning new technologies and continuously improving my skills. My expertise includes working with modern web technologies like React, Node.js, and TypeScript. I'm driven by a desire to solve complex problems and create user-friendly solutions.
 
 - 📧 Reach me: [alanjibarradev@gmail.com](mailto:alanjibarradev@gmail.com)
 - 💼 Connect with me: [LinkedIn](https://www.linkedin.com/in/alanjibarra/)
 - 🌐 View my portfolio: [alanjibarradev.com](https://alanjibarradev.com)
 - 📄 View my resume: [Resume](https://docs.google.com/document/d/1ei5IO2awJS2NTUJsyDn3Z2lpmsDR01e-NTsagMDYOCg/edit?usp=sharing)
-
-
-
-<br/>
 
 ## Technologies & Tools
 
@@ -30,14 +32,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 
-<br/>
-<hr/>
-<br/>
+## GitHub Stats
 
-
-
-<a> 
-    <a href="https://github.com/Ibarra11"><img alt="Alan Ibarra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Ibarra11&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Ibarra11"><img alt="Alan Ibarra's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ibarra11&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<p align="center">
+  <a href="https://github.com/Ibarra11">
+    <img alt="Alan Ibarra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Ibarra11&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </a>
+  <a href="https://github.com/Ibarra11">
+    <img alt="Alan Ibarra's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ibarra11&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </a>
+</p>
