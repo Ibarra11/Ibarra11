@@ -1,46 +1,13 @@
-
-
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Ibarra11&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Alan Ibarra</a></b>
-        </samp>
-</h3>
-
-
-<p align="center"> 
-  <samp>
-    「 I am a Software Developer from <b>Bangladesh</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
-
-<p align="center">
-  <a href="https://alanjibarradev.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alanjibarradev" />
- </a>
- <a href="https://www.linkedin.com/in/alanjibarra/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
-   <a href="https://docs.google.com/document/d/1ei5IO2awJS2NTUJsyDn3Z2lpmsDR01e-NTsagMDYOCg/edit" target="blank">
-  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="alanjibarra" />
- </a>
-</p>
-<br />
-
-
-  
 ## About Me
 
-✌️ &emsp; Enjoy programming and sharing knowledge <br/>
-❤️ &emsp; Love writing code and learning new features <br/>
-📧 &emsp; Reach me anytime: [alanjibarradev@gmail.com](mailto:alanjibarradev@gmail.com)
+👋 Hi there! I'm Alan Ibarra, a passionate Software Developer with a knack for creating interactive and accessible digital experiences. I enjoy learning new technologies and continuously improving my skills. My expertise includes working with modern web technologies like React, Node.js, and TypeScript.
+
+- 📧 Reach me: [alanjibarradev@gmail.com](mailto:alanjibarradev@gmail.com)
+- 💼 Connect with me: [LinkedIn](https://www.linkedin.com/in/alanjibarra/)
+- 🌐 View my portfolio: [alanjibarradev.com](https://alanjibarradev.com)
+- 📄 View my resume: [Resume](https://docs.google.com/document/d/1ei5IO2awJS2NTUJsyDn3Z2lpmsDR01e-NTsagMDYOCg/edit?usp=sharing)
+
+
 
 <br/>
 
