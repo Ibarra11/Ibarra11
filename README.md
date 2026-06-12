@@ -1,45 +1,94 @@
-<!-- Intro  -->
-<h3 align="center">
-      Hey There! I am
-                <b>Alan Ibarra</b>
-</h3>
+Alan Ibarra
 
-## About Me
+About Me
 
-I'm a passionate Software Developer with a knack for creating interactive and accessible digital experiences. I enjoy learning new technologies and continuously improving my skills. My expertise includes working with modern web technologies like React, Node.js, and TypeScript. I'm driven by a desire to solve complex problems and create user-friendly solutions.
+I’m a full-stack software engineer with startup experience building web, mobile, and AI-powered applications using React, TypeScript, and Node.js.
 
-- 📧 Reach me: <a href="mailto:alanjibarradev@gmail.com" target="_blank">alanjibarradev@gmail.com</a>
-- 💼 Connect with me: <a href="https://www.linkedin.com/in/alanjibarra/" target="_blank">LinkedIn</a>
-- 🌐 View my portfolio: <a href="https://alanjibarra.com" target="_blank">alanjibarra.com</a>
-- 📄 View my resume: <a href="https://docs.google.com/document/d/1ei5IO2awJS2NTUJsyDn3Z2lpmsDR01e-NTsagMDYOCg/edit?usp=sharing" target="_blank">Resume</a>
+Over the past few years, I’ve worked across the stack on customer-facing products, internal tooling, event-driven systems, and AI-powered workflows. At Playback Rewards, I helped ship production systems including an Offerwall platform, React Native applications, internal operations tools, analytics pipelines, and AI-powered products that processed thousands of daily events.
 
+More recently, I’ve been building ApplyFlow, an AI-powered Chrome extension that helps job seekers parse resumes and job descriptions, analyze job fit, and generate personalized application responses. The project combines modern TypeScript development, Chrome extension APIs, Node.js services, and LLM-powered workflows using structured outputs and prompt engineering.
 
-## Technologies & Tools
+I enjoy working in small, fast-moving teams where I can own features end-to-end, solve ambiguous problems, and build reliable systems that directly impact users.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React Query](https://img.shields.io/badge/react--query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+Connect With Me
 
-## GitHub Stats
+📧 Email: alanjibarradev@gmail.com
 
-<p align="center">
-  <a href="https://github.com/Ibarra11" target="_blank">
-    <img alt="Alan Ibarra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Ibarra11&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-  </a>
-  <a href="https://github.com/Ibarra11" target="_blank">
-    <img alt="Alan Ibarra's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ibarra11&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-  </a>
-</p>
+💼 LinkedIn: https://www.linkedin.com/in/alanjibarra/
+
+🌐 Portfolio: https://alanjibarra.com
+
+💻 GitHub: https://github.com/Ibarra11
+
+📄 Resume: https://alanjibarra.com
+
+Featured Projects
+
+ApplyFlow
+
+AI-powered Chrome extension and Node.js API that helps job seekers parse resumes and job descriptions, analyze job fit, and generate personalized application responses.
+
+Highlights
+
+* Resume parsing from PDF documents into structured candidate profiles
+* Job description extraction and requirement analysis
+* AI-powered job matching with strengths, gaps, and fit analysis
+* Resume-grounded application answer generation
+* Shared TypeScript and Zod schemas across frontend and backend
+
+Tech
+React, TypeScript, Chrome Extensions (Manifest V3), Express, OpenAI, Vercel AI SDK, Zod, Tailwind CSS, pnpm Workspaces
+
+Perusable
+
+AI-powered shopping assistant focused on product discovery and enrichment.
+
+Highlights
+
+* Built ingestion pipelines processing thousands of Amazon products daily
+* Generated AI-powered product summaries and metadata
+* Implemented cross-platform authentication and search experiences
+* Leveraged structured LLM outputs for product enrichment workflows
+
+Tech
+React, React Native, NestJS, BullMQ, Typesense, Gemini, PostgreSQL
+
+Playback Direct
+
+Offerwall platform built at Playback Rewards that enabled third-party applications to integrate Playback’s rewards ecosystem.
+
+Highlights
+
+* Contributed from concept to production launch
+* Implemented country-based access controls
+* Built analytics pipelines using Pub/Sub and GA4
+* Supported partner onboarding and event tracking workflows
+
+Tech
+React, TypeScript, NestJS, GCP Pub/Sub, GA4
+
+Technologies & Tools
+
+Frontend
+
+React, Next.js, Remix, React Native, Expo, TypeScript, Tailwind CSS, TanStack Query, MUI
+
+Backend
+
+Node.js, NestJS, Express, Prisma, REST APIs, GraphQL, tRPC
+
+Databases & Search
+
+PostgreSQL, MySQL, Redis, Firebase/Firestore, Typesense
+
+Cloud & Infrastructure
+
+Google Cloud Platform (Cloud Run, Pub/Sub, BigQuery), Docker, Railway, CircleCI, BullMQ, Sentry
+
+AI Engineering
+
+OpenAI, Gemini, Structured Outputs, Tool Calling, OpenRouter, Exa, Prompt Engineering, RAG Workflows
+
+Developer Tools
+
+Git, GitHub, Cursor, VS Code, Postman
